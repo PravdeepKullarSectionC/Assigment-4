@@ -1,1 +1,3 @@
 # Assigment-4
+
+I decided to create a homepage page for a fictional gaming convention that is going to happen in toronto. I decided to add things like a countdown to the date of the convention and an area in the footer that acts as a spot to find the socials of said convention. I used bootstrap to place images and text for the featured panels that will be there as well as I added the ability to click on the image to link to their respective websites. This website also works on smaller devides where the images will appear in a line nicely without any issues. I also decided to add aspects of javascript and jquery to help with creating a hamburger icon for the mobile users as well as a countdown to when the event starts.
